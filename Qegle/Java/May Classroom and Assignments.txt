@@ -1,0 +1,499 @@
+May 08 2021: Week1 Day1(saturday)
+ClassRoom:
+==========
+- Create package name as week1.day1
+- Create a  new class as "Mobile" under week1.day1
+- Create 2 methods (makeCall() , sendMsg()) with simple print statement
+- Create main method
+- Create object for Mobile class and call the methods using the object
+- Execute the class and get the result in console
+
+ClassRoom:
+=========
+1. Create Global Variables with different data types
+	mobileModel (with String data type)
+	mobileWeight (with int data type)
+	isFullCharge (with boolean data type)
+	mobileCost (with double datatype)
+    - Call all the global variables from main method and print all values in console
+
+
+We believe we have given the best to you today.
+In case of any doubts, please donot hesistate to reach your mentor through WhatsApp subGroup.
+*SELENIUM MAY BATCH ASSIGNMENTS*
+*Week1 - Day 1 : May- 08-2021*
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day1/assignments/FibonacciSeries.java
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day1/classroom/Factorial.java
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day1/assignments/PrimeNumber.java
+
+
+May 09 2021: Week1 Day1(Sunday)
+Classroom:
+==========
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day1/classroom/SumOfDigits.java
+
+Classroom:
+=========
+1. Create a class "Calculator" with below methods
+
+
+	(a) add(int num1, int num2, int num3), it should return sum of num1+num2+num3
+
+
+	(b) sub(int num1, int num2), it should return subtraction of of num1-num2
+
+
+	(c) mul(double num1, double num2), it should return product of num1 * num2
+
+
+	(d) divide(float num1, float num2), it should return division of num1 / num2
+
+
+
+
+2. Create another class as MyCalculator and call all the methods from Calculator and print the results
+
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/classroom/arrays/FindSecondLargest.java
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/classroom/arrays/PrintDuplicatesInArray.java
+
+
+*SELENIUM MAY BATCH ASSIGNMENTS*
+*Week1 - Day 2 : May- 09-2021*
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/classroom/arrays/MissingElementInAnArray.java
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/FindIntersection.java
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/Palindrome.java
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/ChangeOddIndexToUpperCase.java
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/optional/Anagram.java
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/optional/SumOfDigitsFromString.java
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/classroom/string/CharOccurance.java
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/classroom/string/FindTypes.java
+
+
+*SELENIUM MAY BATCH ASSIGNMENTS*
+*Week2 - Day 2 : May- 16-2021*
+
+1.https://github.com/TestLeafPages/SeleniumAssignments/tree/master/week2/day2.assignments
+   Complete all 4 assignments in this link
+
+2.https://github.com/TestLeafPages/SelFebPseudo/blob/master/week2/day2.classroom/PractiseXpath.java
+*Note for assignment 2:* It is enough you try writing the Xpath and checking in the DOM. Not needed to write a selenium code and execute it. Its for mere practise of the Xpath. 
+
+Send : Xpath Cheat Sheet
+
+Few JAVA programs to practise:
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/RemoveDuplicates.java
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/ReverseEvenWords.java
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/classroom/string/ReverseString.java
+
+
+
+*SELENIUM MAY BATCH ASSIGNMENTS*
+*Week3 - Day 1 : May- 22-2021*
+Classroom1:
+     Interface :HardWare
+     Methods   :hardwareResources()
+
+     Interface :Software
+     Methods   :softwareResources()
+
+     Class     :Desktop
+     Methods   :desktopModel()
+
+Description:
+Create 2 Interface and archieve multiple inheritance.
+
+Classroom2:
+     AbstractClass     :University
+     Methods              : pg()(implemented method), ug() (unimplemented method)
+
+     Class        :College extends University
+     Methods   :ug()
+
+Description:
+ug() is just a templete in University Abstract class and You have to implement the method ug() in College class.
+Execute both ug() & pg()
+
+https://github.com/TestLeafPages/SelJulyPseudo/blob/master/week3/day2/classroom/RemoveDuplicates.java
+
+https://github.com/TestLeafPages/SelJulyPseudo/blob/master/week3/day2/classroom/SortingUsingCollection.java
+
+
+*SELENIUM MAY BATCH ASSIGNMENTS*
+*Week3 - Day 2 : May- 23-2021*
+Assignment 1:
+int[] num = {4,0,3,0,1,5,2,0}
+move all the 0 to the right 
+output:  4,3,1,5,2,0,0,0
+
+Assignment 2: 
+Print the duplicates using collection
+int[] data= {1,3,8,3,11,5,6,4,7,6,7};
+
+output: 3,6,7
+
+Assignment 3: 
+https://github.com/TestLeafPages/SelFebPseudo/blob/master/week1/day2/classroom/arrays/MissingElementInAnArray.java
+
+Assignment 4: 
+RedBus:
+1.Go to https://www.redbus.in/ in chrome
+2.Type C in the FROM text box
+3.Choose the second option and ENTER 
+4.Type in the Destination text box
+5.Choose the first option and TAB
+6.Choose the first date in April
+7.Choose the first option and TAB
+8.Click Search Buses
+9.Print the number of search results
+10.Choose only Sleeper Bus
+11.Print the number of search results
+12.Choose also AC buses
+13.Print the number of search results
+
+*SELENIUM MAY BATCH ASSIGNMENTS*
+*Week 4 - Day 1 : May- 29-2021*
+Classroom1:
+
+Verify train names are unique in https://erail.in/
+https://github.com/TestLeafPages/SelJulyPseudo/blob/master/week3/day2/classroom/VerifyTrainNamesAreUnique.java
+
+Steps:
+1. Navigate to https://erail.in/
+2. Clear the text in source and enter "ms" and tab
+3. Clear the text in destination and enter "mdu" and tab
+4. Uncheck sort on date
+5. Get all  the train names and verify whether any duplicate train name is there or not
+
+tips:
+Table Class Name : DataTable TrainList TrainListHeader
+
+Classroom2:
+
+1. Load https://www.snapdeal.com/
+2. Mouse hover on Men's Fashion and Click Shirts
+3. Mouse hover on the first product and Click on Quick View
+4. Close all the browsers
+
+Classroom3:
+http://leafground.com/pages/Dropdown.html
+select "Selenium" and "Loadrunner" from the multi select combo box using actions class
+
+*ASSIGNMENTS*
+=============
+*Week4 Day7: 29/05/2021*
+
+*Assignment 1:* Complete all the 4 tasks in
+http://leafground.com/pages/table.html
+
+*Assignment 2:* http://leafground.com/pages/Calendar.html
+
+*Assignment 3:*
+1. Launch ChromeBrowser
+2. Go to https://www.lenskart.com
+3. Mouse Hover "Computer Glasses"-->MEN-->Click Premium Range
+4. Click Round(Frame Shape)
+5. Click on Frame color with highest count
+6. Confirm the count shown in the frame color matches the displayed results count
+7. Print the size of the first product (Hint: Mouse hover on the prouct to get the size)
+
+*Assignment 4:* - *ErailSorting*
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week3/day1/Classroom/ErailSort.java
+
+*Assignment 5:* - *Jquery:*
+https://jqueryui.com/sortable/
+https://jqueryui.com/droppable/
+https://jqueryui.com/draggable/
+
+
+If you had missed watching the YouTube video on *Regular Expressions*, please take time to watch it today.
+Watch the  video mandatorily
+https://youtu.be/5sTzJgpt5PM
+
+
+*ASSIGNMENTS*
+=============
+*Week4 Day8: 30/05/2021*
+
+*Assignment 1: MergeLead*
+=========================
+Application : http://leaftaps.com/opentaps/control/main
+
+1. Launch the browser
+2. Enter the username
+3. Enter the password
+4. Click Login
+5. Click crm/sfa link
+6. Click Leads link
+7. Click Merge leads
+8. Click on Icon near From Lead
+9. Move to new window
+10. Enter Lead ID
+11. Click Find Leads button
+12. Click First Resulting lead
+13. Switch back to primary window
+14. Click on Icon near To Lead
+15. Move to new window
+16. Enter Lead ID
+17. Click Find Leads button
+18. Click First Resulting lead
+19. Switch back to primary window
+20. Click Merge
+21. Accept Alert
+22. Click Find Leads link
+23. Enter From Lead ID
+24. Click Find Leads button
+25. Verify message "No records to display" in the Lead List. This message confirms that the successful merge of leads
+26. Close the browser (Do not log out)
+
+*Assignment 2: SnapDeal*
+=============
+1. Launch https://www.snapdeal.com/
+2. Go to Mens Fashion
+3. Go to Sports Shoes
+4. Get the count of the sports shoes
+5. Click Training shoes
+6. Sort by Low to High
+7. Check if the items displayed are sorted correctly
+8. Mouse Hover on puma Blue Training shoes
+9. click QuickView button
+10. Print the cost and the discount percentage
+11. Take the snapshot of the shoes.
+12. Close the current window
+14. Close the main window
+7. select the brand Puma
+
+*Assignment 3: ServiceNow - Frames*
+----------------------------------
+
+*ServiceNow- refer the attached document below for clarity*
+
+Step1: Load ServiceNow application https://dev111627.service-now.com/
+Step2: Enter username as “admin”
+Step3: Enter password as “India@123”
+Step4: Click Login
+Step5: Search “incident “ Filter Navigator
+Step6: Click “All”
+Step7: Click New button
+Step8: Select a value for Caller and Enter value for short_description
+Step9: Read the incident number and save it a variable
+Step10: Click on Submit button
+Step 11: Search the same incident number in the next search screen as below
+Step12: Verify the incident is created successful
+
+*Assignment 4:*
+===============
+1) Open https://www.myntra.com/
+2) Mouse over on WOMEN 
+3) Click Jackets & Coats
+4) Find the total count of item 
+5) Validate the sum of categories count matches
+6) Check Coats
+7) Click + More option under BRAND	
+8) Type MANGO and click checkbox
+9) Close the pop-up x
+10) Confirm all the Coats are of brand MANGO
+11) Sort by Better Discount
+12) Find the price of first displayed item
+13) Mouse over on size of the first item
+14) Click on WishList Now
+15) Close Browser
+
+*Assignment 5:*
+=============
+1) Go to https://www.nykaa.com/
+2) Mouseover on Brands and Mouseover on Popular
+3) Click L'Oreal Paris
+4) Go to the newly opened window and check the title contains L'Oreal Paris
+5) Click sort By and select customer top rated
+6) Click Category and click Shampoo
+7) check whether the Filter is applied with Shampoo
+8) Click on L'Oreal Paris Colour Protect Shampoo
+9) GO to the new window and select size as 175ml
+10) Print the MRP of the product
+11) Click on ADD to BAG
+12) Go to Shopping Bag 
+13) Print the Grand Total amount
+14) Click Proceed
+15) Click on Continue as Guest
+16) Check if this grand total is the same in step 13
+17) Close all windows
+
+
+
+FeedBack:
+========
+Ramesh and ShahjaKhan
+
+Felt more strange
+Why strings, variables?
+Seperate sessions for new and experienced people
+Possible to handle seperately??
+
+Monday Morning:
+===============
+ 
+Team meeting compulsory - instead of Breakout session
+
+Insist on
+- WebEx app
+- Daily Questions
+- Weekly assignment
+- Daily questions important to be attended
+- Git hub session to be done
+
+
+JavaAnagram
+
+
+Post msg in APril group for Daily questions
+
+Service Now instance creation - Give to Mohan
+ServiceNow test Case to be updated tomorrow
+ServiceNow - Code reviewed and comments given
+
+
+
+May 
+
+
+leave - Shaheel
+
+Week Off - thur - shaheel
+           fri - ragu
+           fri - Easwar
+           TuesDay- Ram
+           Thursday - Aravinth
+
+Saheel:
+Incident Management - Update - WorkNotes
+Easwar:
+Catalog TC003 - Update ( Issue)
+Ticket Management-easwar - TC003 - Update ( Issue)
+Article-aravind - TC002
+
+Leave - 
+
+DataProvider
+
+Evening session with week off
+
+
+Questions:
+how to get the text and verify it?..and difference between gettext nd get attribute?
+if we are using gettext() method and the value of that am assigning to some variable
+can i call that variable using syso?
+if it is <a> tag shall I write xpath using text based?
+Some method we are directly Calling and perform the action using send keys , click etc and sometimes we are saving it in variable and using...I am little confused exactly wn Savin the findbyelement,gettext to the variable and using is needed?
+Can you show to how to write "Xpath with contains" ,Mam
+mam difference between close () and quit()
+how can we ge t no of dropdown options available in a particular dropdown? // List
+
+
+Thurs
+Friday 
+
+Thurs Naveen weekOff
+
+Thurs - Sam
+
+Friday- sher 
+
+different between is enabled and is selected
+
+explain abt selectbyIndex in dropdown..
+multiple select with example
+
+can you expalin about irctc question which asked in whatsup group today?
+
+why do we use xpath mam 
+
+Locators:
+id
+class
+name
+link
+(//div[@class='x-grid3-cell-inner x-grid3-col-partyId']/a)[1]
+How to find xpath of first element in list?
+to select first lead id??
+
+
+//*[@id='ext-gen473']/div[1]/table/tbody/tr[1]/td[3]/div/a
+
+differecne b/w using webdriver and xpath 
+where do we use partial match xpath
+
+explain relationship based xpath
+explain about sibling
+sibling basedxpath
+
+List will work for findelements only. because for findelement by id its throwing error
+
+Mam, is there any optional assignments to try out additionally to the ones provided in the weekend, could you pls provide the link..
+
+what is the reason we do it this way. Interface with unimplemented methods. If i can write the method in our own class, why do we do this
+
+driver.get() -- Loads URL
+ Main purpose Loads URL
+
+FireFox - driver.get()
+Chrome  - driver.start()
+Edge    - driver.launch()
+opera
+IE
+Safari
+
+Selenium WebDriver - driver.get()
+                     driver.maximise()
+
+bt aftr Java 1.8,In later stage if we want to add methods in interface..implemented method use panlam nu sonagalae mam
+which means Interface can have implemented method too..mam??
+
+i asked doubt on moving right of the zeros
+
+I have  little doubt  missing element in array
+one doubt in RedBus program mam... to select drop down
+
+
+from ramya jai shankar to everyone:    7:02 PM
+print duplicate using collection
+
+
+from Thejeshwini to everyone:    7:02 PM
+In this i want to know how to select all options from the checkbox
+missing element n array
+
+http://www.leafground.com/pages/checkbox.html
+
+
+
+== and .equals diffrence
+in how ways c and what are those 
+
+
+Hi Team, 
+Few questions are answered and attached as document below.
+Please analyse, understand and implement it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
